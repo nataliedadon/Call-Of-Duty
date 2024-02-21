@@ -1,0 +1,12 @@
+body{
+	background-color: grey;
+	background-image: url("https://i.pinimg.com/originals/9f/d6/f3/9fd6f3844cc8374ef5b99e8bc3083aa5.jpg");
+	text-align:center;
+	color:white;
+	direction:rtl;
+	
+	img {
+	height:; 250px;
+	border-radius: 20%;
+	box-shadow: 0 2px 5px rgba (0, 0, 0, 0.3);
+	}
